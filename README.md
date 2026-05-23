@@ -4,7 +4,7 @@
 [![Streamlit](https://img.shields.io/badge/Streamlit-deployed-red.svg)](https://streamlit.io)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
-A geospatial analytics platform identifying underserved Nigerian communities using travel-time modelling, facility density analysis, and K-Means gap-zone clustering — guiding evidence-based placement of new clinics and mobile health units.
+A geospatial analytics platform identifying underserved Nigerian communities using travel-time modelling, facility density analysis, and K-Means gap-zone clustering, guiding evidence-based placement of new clinics and mobile health units.
 
 ---
 
@@ -75,5 +75,5 @@ streamlit run streamlit_app.py
 
 ## Author
 
-**Momah Moses** — Geospatial AI Engineer & Data Scientist
+**Momah Moses**, Geospatial AI Engineer & Data Scientist
 [GitHub](https://github.com/Momahmoses) · [Portfolio](https://momahmoses-ng-gis-portfolio.hf.space)
